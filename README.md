@@ -27,11 +27,13 @@ abrir la url http://localhost:8080/swagger-ui/index.html
 dentro de la carpeta inventario-vacuna-FRONTEND ejecutar el comando  npm i
 
 levantar la apliacion con el comando ng serve
-abrir la url http://localhost:4200/login
+
+Abrir la url http://localhost:4200/login asegurarse que el backed este levantado
 
 ## credenciales
 las credenciales de Administrador usuario: admin@admin.com contraseña: 123
-las credenciales de los empleados serán usuario el email y la contraseña el numero de cedula
+
+las credenciales de Empleados serán usuario el email y la contraseña el número de cedula
 
 
 
