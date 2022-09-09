@@ -10,7 +10,11 @@ Angular CLI: 14.1.0
 
 Node: 16.17.0
 
-CONFIGURACIÓN
+## CONFIGURACIÓN
+descargar el repositorio
+
+# consfiguracion aplicacion backed
+
 
 
 
