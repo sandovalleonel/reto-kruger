@@ -16,7 +16,7 @@ descargar el repositorio
 # configuración y construcción aplicacion backed
 utilizar IntelliJ IDEA  para cargar la carpeta inventario-vacuna-BACKEDN
 
-crear una base de datos en postgres llamada # kruger_reto
+crear una base de datos en postgres llamada kruger_reto
 
 configurar el usuario y la contraseña de postgres en el archivo ./inventario-vacuna-BACKEDN/src/main/resources/application.properties
 
